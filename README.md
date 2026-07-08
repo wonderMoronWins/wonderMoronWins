@@ -66,16 +66,6 @@ This program combines <em>machine learning</em>, <em>computer vision</em>, <em>a
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wonderMoronWins&show_icons=true&hide=prs&count_private=true&theme=tokyonight" alt="Evgeniy's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonderMoronWins&layout=compact&theme=tokyonight" alt="Top Langs"/>
-</p>
-
----
-
 ### 🧷 Extra
 
 <p align="center"><i>“No Promise Club” founder — tech introvert, structured thinker, and automation addict.</i></p>
