@@ -48,7 +48,7 @@ This program combines <em>machine learning</em>, <em>computer vision</em>, <em>a
 - 🔗 GitHub: [wonderMoronWins](https://github.com/wonderMoronWins)  
 - 🧪 GitLab: [wonderingmoronwins](https://gitlab.com/wonderingmoronwins)  
 - 🕊️ Twitter / X: [@eegorin3](https://x.com/eegorin3)  
-- 👥 Facebook: [profile](https://facebook.com/profile.php?id=61552115284400)
+- 👥 Facebook: [Evgeniy][(https://facebook.com/profile.php?id=61552115284400)](https://www.facebook.com/profile.php?id=61552115284400&locale=ru_RU)
 
 ---
 
